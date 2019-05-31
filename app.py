@@ -81,4 +81,5 @@ def page_not_found():
     <p>Ah oh, page not found :(</p>
     '''
 
-app.run()
+if __name__ == "__main__":
+    app.run()
