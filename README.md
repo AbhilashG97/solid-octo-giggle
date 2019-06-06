@@ -1,6 +1,8 @@
-# Mock AHMS API :school:
+# Mock Amrita Hostel Management System(AHMS) API :school:
 
-This is very **minimilistic mock ahms API**. It is live and can be found at [here](https://mock-ahms.herokuapp.com/)
+This is very **minimilistic mock ahms API**. It is live and can be found at [here](https://mock-ahms.herokuapp.com/). 
+
+:warning: This API has been created for **teaching purposes** only. 
 
 ## API Documentation
 
@@ -56,4 +58,4 @@ https://mock-ahms.herokuapp.com/v1/resources/ahms?has_stayback=1
     
     :warning: The above command will push/upload all your files to the ```master``` branch of your repository.
    
-:star: To know more on Git, please have a look [here](https://git-scm.com/book/en/v2)
+:star: To know more on Git, please have a look [here](https://git-scm.com/book/en/v2).
